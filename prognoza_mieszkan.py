@@ -14,7 +14,6 @@ Interaktywny projekt Data Science dla Google Colab. Notebook pokazuje mapę powi
 """
 
 # Instalacja bibliotek — uruchom tę komórkę jako pierwszą.
-pip -q install numpy pandas scikit-learn plotly ipywidgets requests
 
 import hashlib
 import json
